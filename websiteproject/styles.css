@@ -1,0 +1,18 @@
+.content {
+  background-color:red;
+}
+
+.topnav a{
+  font-family:"Arial",sans;
+  font-size:15;
+}
+
+.content p {
+  font-family:"Ariel", sans-serif;
+  color:black;
+}
+
+img {
+  width:150%; 
+  height:150%;
+}
